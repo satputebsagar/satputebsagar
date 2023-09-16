@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there 👋 this is Sagar Satpute
+
+👨‍⚖️👨‍⚖️i'm passionate MERN stack web developer👨‍💼👨‍💼
+
+##Skills & Experience
+
+
+
+
+
+👨‍🏫👨‍🏫React/Django /HTML/CSS /Javascipt /Node.js/express /mongodb/mySQL
+
+
+
 
 <!--
 **satputebsagar/satputebsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
